@@ -1,0 +1,2 @@
+../Core/Src/systick.c:15:6:systick	8	static
+../Core/Src/systick.c:28:7:systickDelayMs	24	static
